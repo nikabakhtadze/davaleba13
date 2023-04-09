@@ -1,0 +1,74 @@
+*{
+    box-sizing: border-box;
+}
+.container1{
+    position:absolute;
+    height:61px;
+    width:61px;
+    top:25px;
+    left:120px;
+}
+@font-face {
+    font-family: "mulish";
+    src: url(Mulish-VariableFont_wght.ttf);
+    font-family:"arabic";
+    src: url(arabic.ttf);
+}
+nav{
+    margin-left:846px;
+    margin-top:50px;
+}
+a{
+    padding:20px;
+    font-family:"mulish";
+    font-size:24px;
+    line-height:30px;
+    text-decoration:none;
+    color:#000000;
+}
+.container2{
+    position:absolute;
+    top:238px;
+    left:120px;
+    width:800px;
+    font-family:"arabic";
+    font-size:50px;
+    font-weight:800;
+    line-height:63px;
+    line-height: 150%;
+    color:#000000;
+}
+.container3{
+    position:absolute;
+    left:120px;
+    top:420px;
+    width:670px;
+    font-family:"arabic";
+    font-size:32px;
+    line-height:51px;
+    line-height:160%;
+    color:#000000;
+}
+.container4{
+    position:absolute;
+    left:120px;
+    top:605px;
+    height:75px;
+    width:206px;
+    background-color:#5555FF;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    color:#FFFFFF;
+    font-family:"mulish";
+    font-size:36px;
+    line-height:45px;
+    line-height:100%;
+}
+.container5{
+    position:absolute;
+    left:890px;
+    top:286px;
+    height:328px;
+    width:500px;
+}
